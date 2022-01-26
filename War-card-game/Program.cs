@@ -1,4 +1,4 @@
-﻿
+//The exercise purpose was to implement queue structure on your own, simple card game served great as an example
 
 Karta[] talia = Talia();
 Kolejka gracz1 = new Kolejka();
