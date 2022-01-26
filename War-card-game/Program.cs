@@ -166,7 +166,7 @@ public class Karta
         }
         if (siła > 14)
         {
-            this.nazwa = "jebacpanka123";
+            this.nazwa = "NotACard";
         }
     }
 
